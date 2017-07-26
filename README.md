@@ -1,4 +1,5 @@
-#dockerfile
+#DOCKER
+<h3>Langkah Langkah Menjalankan Docker Image</h3>
 <ul>
 	<li>download semua file pada github</li>
 	<li>buat folder baru dengan nama nim pada docker kemudian copy semua file unduhan dari github ke dalam folder yang telah dibuat tadi</li>
